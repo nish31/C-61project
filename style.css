@@ -1,0 +1,80 @@
+#Minecraftimg{
+    width:400px;
+    border-radius:100px;
+    height: 250px;
+}
+#Myfaviroutehobby{
+   z-index:9;
+background:linear-gradient(#A523D9 0%,#AA7BB0 100%);
+    padding:50px;
+  
+}
+#About{
+    background:linear-gradient(#42eff5 0%,#42f599 100%);
+}
+#Myfaviroute{
+    background-color: chartreuse;
+}
+#myachieve{
+    background-color: cadetblue;
+}
+#inspiration{
+background-color:cyan;
+}
+#contact{
+    background-color:cornflowerblue;
+}
+#Get minecraft{
+    background-color:aquamarine;
+}
+
+
+body{
+   text-align:center;
+}
+.line{
+    height:6px;
+    width:150px;
+    background-color:blueviolet;
+    margin:8px auto;
+}
+img{
+    width:600px;
+    padding-top:30px;
+}
+.Captions{
+    font-size:25px;
+}
+.menubar{
+    list-style: none;
+    font-family: 'Open Sans', sans-serif;
+    font-size:25px;
+    font-weight:700;
+  position:fixed;
+    cursor:pointer;
+    top:0px;
+    right:0px;
+    left:0px;
+    bottom:0px;
+    z-index: 10;
+}
+.link{
+    color: aliceblue;
+    float: left;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-top:5px;
+    padding-bottom: 5px;
+}
+.link:hover{
+    background-color:darkblue;
+}
+a{
+    font-size:23px;
+    color:chartreuse;
+    text-decoration: none;
+}
+
+
+
+
